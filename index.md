@@ -1,7 +1,7 @@
-[About](#about) [Research](#research)
+[[About]](#about) [[Research]](#research)
 
 ![](files/img/avatar.jpeg){: style="float: left"}
-## Guilhem Xavier Piat, PhD {#about}
+# Guilhem Xavier Piat, PhD {#about}
 Doctor in Artificial Intelligence, expert on the topic of integrating structured knowledge into Transformer-based Language Models.
 guilhem.piat[at]proton.me
 
