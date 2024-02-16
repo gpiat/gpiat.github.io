@@ -48,8 +48,8 @@ PIAT G., Semmar N., Allauzen A., Essafi H., Tourille J., 2022. **Enriching Conte
 
 ## Higher Education {#education}
 
-|  Year span  | Degree      | University |
-| :---------: | ----------- | ---------- |
-|  2019-2023  | Doctorate   | Université Paris-Saclay |
-|  2016-2018  | Master's    | Université Paris Descartes |
-|  2013-2016  | Bachelor's  | Université Paris Descartes |
+|  Year span  | Degree      | Subject                                 | Alma Mater                 |
+| :---------: | ----------- | --------------------------------------- | -------------------------- |
+|  2019-2023  | Doctorate   | Transformers, NLP, Structured Knowledge | Université Paris-Saclay    |
+|  2016-2018  | Master's    | Machine Learning for Data Science       | Université Paris Descartes |
+|  2013-2016  | Bachelor's  | Computer Science                        | Université Paris Descartes |
