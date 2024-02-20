@@ -1,10 +1,17 @@
+
+<link rel="stylesheet" href="css/markdown.css">
+<!-- <link rel="stylesheet" href="css/retro.css"> -->
+<!-- <link rel="stylesheet" href="css/pygments_code_github.css"> -->
+
+<!-- <div class="markdown-body"> -->
+
 # Website Under Construction
 
 [<kbd>About</kbd>](#about) [<kbd>Research</kbd>](#research) [<kbd>Teaching</kbd>](#teaching) [<kbd>Education</kbd>](#education)
 
 # Guilhem Xavier Piat, PhD {#about}
-![](/files/img/avatar.jpeg){: style="float: left; max-width: 20%; height: auto; margin:1rem;"}
-Doctor in Artificial Intelligence, expert on the topic of integrating structured knowledge into Transformer-based Language Models.
+![](files/img/avatar.jpeg){: style="float: left; max-width: 20%; height: auto; margin:1rem;"}
+I have a doctorate in Artificial Intelligence on the topic of integrating structured knowledge into Transformer-based Language Models.
 
 guilhem.piat[at]proton.me
 
@@ -55,3 +62,5 @@ PIAT G., Semmar N., Allauzen A., Essafi H., Tourille J., 2022. **Enriching Conte
 |  2019-2023  | Doctorate   | Transformers, NLP, Structured Knowledge | Université Paris-Saclay    |
 |  2016-2018  | Master's    | Machine Learning for Data Science       | Université Paris Descartes |
 |  2013-2016  | Bachelor's  | Computer Science                        | Université Paris Descartes |
+
+<!-- </div> -->
