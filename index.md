@@ -5,8 +5,6 @@
 
 <!-- <div class="markdown-body"> -->
 
-# Website Under Construction
-
 [<kbd>About</kbd>](#about) [<kbd>Research</kbd>](#research) [<kbd>Teaching</kbd>](#teaching) [<kbd>Education</kbd>](#education) [<kbd>Proficiencies</kbd>](#proficiencies) [<kbd>Cool Stuff</kbd>](#cool-stuff)
 
 # Guilhem Xavier Piat, PhD {#about}
