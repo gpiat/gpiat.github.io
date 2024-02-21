@@ -7,13 +7,15 @@
 
 [<kbd>About</kbd>](#about) [<kbd>Research</kbd>](#research) [<kbd>Teaching</kbd>](#teaching) [<kbd>Education</kbd>](#education) [<kbd>Proficiencies</kbd>](#proficiencies) [<kbd>Cool Stuff</kbd>](#cool-stuff)
 
+<br />
+
 # Guilhem Xavier Piat, PhD {#about}
-![](files/img/avatar.jpeg){: style="float: left; max-width: 20%; height: auto; margin-right:1rem;"}
+![](files/img/avatar.jpeg){: style="float: left; max-width: 25%; height: auto; margin-right:1rem; margin-bottom:1rem;"}
 My doctorate is in Artificial Intelligence, on the topic of integrating structured knowledge into Transformer-based Language Models. My research interests revolve around Artificial General Intelligence (AGI). I got into language models based on the following idea:
 
-*As text (often in the form of natural language, but also program source code, mathematical equations, etc.) is the most versatile and universal tool we use to communicate ideas, inputs and outputs for cognitive tasks and descriptions of non-cognitive processes, it appears sensible that proficiency in the communication medium would entail proficiency in reasoning about the concepts being handled. It is in my opinion critical for an AGI to master this modality, and if no new fundamental breakthroughs are necessary, the first AGI will be largely based on language modeling.*
+*As text (often in the form of natural language, but also program source code, mathematical equations, etc.) is the most versatile and universal tool we use to communicate ideas, inputs and outputs for cognitive tasks and descriptions of non-cognitive processes, it appears sensible that proficiency in the communication medium would entail proficiency in reasoning about the concepts being handled.*
 
-This has been my belief since the beginning of my graduate studies in 2016, and it has driven and shaped my work thus far. My work on language models has been focused on attempting to leverage knowledge without requiring a model to internalize it. This approach makes language models more parameter- and data-efficient, and allows for greater  explainability.
+It has been my opinion since the beginning of my graduate studies in 2016 that mastering this modality is critical for an AGI, and if no new fundamental breakthroughs are necessary, the first AGI will be largely based on language modeling. This belief has driven and shaped my work thus far. My work on language models has been focused on attempting to leverage knowledge without requiring a model to internalize it. This approach makes language models more parameter- and data-efficient, and allows for greater  explainability.
 
 In the medium to long term, I intend to pivot my research into AI safety, particularly AI alignment, as current generative language models are exhibiting near-AGI behaviors and characteristics, and it seems likely to me that AGI will be achieved before alignment.
 
