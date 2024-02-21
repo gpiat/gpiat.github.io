@@ -100,24 +100,26 @@ Here's some cool stuff I found.
 
 - FileLight (find in your package manager) is a concentric-ring-style disk usage visualizer much like Baobab, but it supports viewing distant filesystems over the `fish` protocol
 
-- [Slingshot](https://flathub.org/apps/com.github.ryanakca.slingshot), a local 2-player game in which you must use the gravitational field of planets to guide your missiles and destroy your opponent's spacecraft.
+- [Slingshot](https://flathub.org/apps/com.github.ryanakca.slingshot) is a local 2-player game in which you must take turns shooting at each other's spacecraft whilst accounting for the gravitational field of nearby planets.
 
-- [Obsidian](https://obsidian.md/), a versatile Markdown-based note-taking tool.
+- [Obsidian](https://obsidian.md/) is a versatile Markdown-based note-taking tool.
 
 - [Web Plot Digitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) finds data from image plots.
 
-- [Jendave's fork](https://github.com/jendave/DND-5e-LaTeX-Template) of [rpgtex's DnD 5e LaTeX Template](https://github.com/rpgtex/DND-5e-LaTeX-Template)
+- rpgtex made a [LaTeX Template](https://github.com/rpgtex/DND-5e-LaTeX-Template) mimicking the look of D&D 5e books. [ashonit's fork](https://github.com/ashonit/DND-5e-LaTeX-Template) and [Jendave's fork](https://github.com/jendave/DND-5e-LaTeX-Template) have made significant improvements.
 
-- Everything [Watawatabou](https://watabou.itch.io/) makes
+- [Watawatabou](https://watabou.itch.io/) makes small games and procedural generators, often fantasy TTRPG themed. Their city map generator is incredible.
 
-- Need a temporary e-mail but the site saw you coming and won't let you use the standard services? [Host your own!](https://github.com/sdushantha/tmpmail)
+- Need a temporary e-mail for a shady site, but they saw you coming and won't let you use the standard services? [Host your own!](https://github.com/sdushantha/tmpmail)
 
-- [MapSCII](https://github.com/rastapasta/mapscii) renders maps in your console.
+- Have you ever wanted to view OpenStreetMaps in your terminal? Of course you have. Check out [MapSCII](https://github.com/rastapasta/mapscii)!
 
-- Diana Smith's [Pure CSS photorealistic paintings](https://github.com/cyanharlow)
+- [Diana Smith]((https://github.com/cyanharlow)) makes almost photorealistic paintings. Purely in CSS.
 
-- Avatar generators: [pagan](https://github.com/daboth/pagan), [indenticon](https://gist.github.com/Syncrossus/51e259d1adcf99b4f68737a602efeae6)
+- Here are a couple of avatar generators, useful for generating the default avatar for new users on a website: [pagan](https://github.com/daboth/pagan), [indenticon](https://gist.github.com/Syncrossus/51e259d1adcf99b4f68737a602efeae6)
 
-- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) generates images that are locally similar to an input image
+- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) generates images that are locally similar to an input image.
+
+- Combining [Terminus](https://packagecontrol.io/packages/Terminus) and [SendCode](https://packagecontrol.io/packages/SendCode), you can execute code directly from within Sublime Text.
 
 
