@@ -7,13 +7,19 @@
 
 # Website Under Construction
 
-[<kbd>About</kbd>](#about) [<kbd>Research</kbd>](#research) [<kbd>Teaching</kbd>](#teaching) [<kbd>Education</kbd>](#education)
+[<kbd>About</kbd>](#about) [<kbd>Research</kbd>](#research) [<kbd>Teaching</kbd>](#teaching) [<kbd>Education</kbd>](#education) [<kbd>Proficiencies</kbd>](#proficiencies) [<kbd>Cool Stuff</kbd>](#cool-stuff)
 
 # Guilhem Xavier Piat, PhD {#about}
-![](files/img/avatar.jpeg){: style="float: left; max-width: 20%; height: auto; margin:1rem;"}
-I have a doctorate in Artificial Intelligence on the topic of integrating structured knowledge into Transformer-based Language Models.
+![](files/img/avatar.jpeg){: style="float: left; max-width: 20%; height: auto; margin-right:1rem;"}
+My doctorate is in Artificial Intelligence, on the topic of integrating structured knowledge into Transformer-based Language Models. My research interests revolve around Artificial General Intelligence (AGI). I got into language models based on the following idea:
 
-guilhem.piat[at]proton.me
+*As text (often in the form of natural language, but also program source code, mathematical equations, etc.) is the most versatile and universal tool we use to communicate ideas, inputs and outputs for cognitive tasks and descriptions of non-cognitive processes, it appears sensible that proficiency in the communication medium would entail proficiency in reasoning about the concepts being handled. It is in my opinion critical for an AGI to master this modality, and if no new fundamental breakthroughs are necessary, the first AGI will be largely based on language modeling.*
+
+This has been my belief since the beginning of my graduate studies in 2016, and it has driven and shaped my work thus far. My work on language models has been focused on attempting to leverage knowledge without requiring a model to internalize it. This approach makes language models more parameter- and data-efficient, and allows for greater  explainability.
+
+In the medium to long term, I intend to pivot my research into AI safety, particularly AI alignment, as current generative language models are exhibiting near-AGI behaviors and characteristics, and it seems likely to me that AGI will be achieved before alignment.
+
+Outside of work, my interests include tabletop RPGs (D&D in particular, but others as well); outdoor sports such as hiking, climbing and skiing; fitness; and free and open-source software. When I can, I advocate for consumer rights, right to repair, independance of governments and people from big tech, and digital privacy.
 
 [<svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github" fill="indigo">
     <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
@@ -29,6 +35,8 @@ guilhem.piat[at]proton.me
 <!-- <a href="https://www.linkedin.com/in/guilhem-piat-73a670245/" target="_blank" data-bcup-haslogintext="no"><i class="fab fa-linkedin-in fa-lg fab-custom"></i></a> -->
 <!-- <a href="https://scholar.google.com/citations?user=4plEJJYAAAAJ" target="_blank" data-bcup-haslogintext="no"><i class="ai ai-google-scholar fa-lg fab-custom"></i></a> -->
 <!-- <a href="https://cv.hal.science/gpiat" target="_blank" data-bcup-haslogintext="no"><i class="ai ai-hal fa-lg fab-custom"></i></a> -->
+
+guilhem.piat[at]proton.me
 
 <br /><br />
 
@@ -55,6 +63,10 @@ PIAT G., Semmar N., Allauzen A., Essafi H., Tourille J., 2022. **Enriching Conte
 - Encadrant de TP en Programmation Fonctionnelle (Haskell)
 - Enseignant responsable de l'option "Projet Machine Learning et Data Science"
 
+## Other work experience
+- **Session Chair**, *WiMob 2022 Conference*, Thessaloniki, Greece.
+
+
 ## Higher Education {#education}
 
 |  Year span  | Degree      | Subject                                 | Alma Mater                 |
@@ -63,4 +75,51 @@ PIAT G., Semmar N., Allauzen A., Essafi H., Tourille J., 2022. **Enriching Conte
 |  2016-2018  | Master's    | Machine Learning for Data Science       | Université Paris Descartes |
 |  2013-2016  | Bachelor's  | Computer Science                        | Université Paris Descartes |
 
-<!-- </div> -->
+## Proficiencies {#proficiencies}
+
+|  Category   | Specific proficiencies                                                                      |
+| :---------: | ------------------------------------------------------------------------------------------- |
+| Neural Nets | Transformers, PyTorch, Huggingface, AllenNLP                                                |
+|     NLP     | Leveraging Knowledge Graphs, Classification, Entity Linking, Word/Document/Graph Embeddings |
+|     ML      | Active Learning, Dimensionality reduction & Clustering, Retrieval                           |
+| Programming | Python, R, Bash, Java, Prolog, Haskell, Ocaml                                               |
+|    Other    | Teaching, scientific writing in English and French, working in a team                       |
+
+## Cool stuff {#cool-stuff}
+Here's some cool stuff I found.
+
+- Are you wanting to switch operating systems but afraid of breaking your workflow? Did your "perpetual license" to a piece of software get revoked and the studio is mandating that you subscribe to their SaaS platform to keep using it? Have you found a niche piece of software that does exactly what you want but is buggy or no longer supported? Head over to [AlternativeTo](https://alternativeto.net/), a place that catalogs pieces of software and websites that share similar purpose or functionality.
+
+- Doorway pull-up bars are convenient, but most have to be screwed in, which isn't always an option, or put stress on the top of the door frame which may be fragile. A new, [self-expanding](https://www.amazon.com/dp/B0831QBK3P?ascsubtag=&linkCode=gs2&tag=hearstmagaz08-21) type of pull-up bar has emerged, which holds using friction on pads articulated such that the downward force on the bar is redirected to the sides. I think the idea is great, unfortunately I can't find any major sports brands manufacturing these, likely indicating the mechanism is unreliable.
+
+- The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is an interesting approach to social media. Anyone can spin up an *instance* of a service such as [Mastodon](https://mastodon.social/explore) (alternative to Twitter) or [Lemmy](https://join-lemmy.org/) (alternative to Reddit). Users are registered with specific instances, but instances of a service can communicate. This means one instance going dark does not take out the entire social network, and rather than maintaining one giant infrastructure, many people can maintain a small part of the infrastructure.
+
+- If you own a lot of DRM-free music but find it difficult to manage, [ManaZeak](https://github.com/ManaZeak) allows you to self-host your own Spotify-like service.
+
+- [Java's Cool](https://github.com/svn2github/javascool) is a defunct project by the INRIA for teaching programming. It teaches algorithms and the basic syntax of Java without having to deal with the installation of an IDE and all the boilerplate that make Java so unwieldy to start programming with. You can still build it from source or [install the latest Debian build](https://github.com/svn2github/javascool/tree/master/javascool_V4/documents/distrib).
+
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) is a terminal emulator made to look like a CRT. It's unironically fantastic.
+
+- FileLight (find in your package manager) is a concentric-ring-style disk usage visualizer much like Baobab, but it supports viewing distant filesystems over the `fish` protocol
+
+- [Slingshot](https://flathub.org/apps/com.github.ryanakca.slingshot), a local 2-player game in which you must use the gravitational field of planets to guide your missiles and destroy your opponent's spacecraft.
+
+- [Obsidian](https://obsidian.md/), a versatile Markdown-based note-taking tool.
+
+- [Web Plot Digitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) finds data from image plots.
+
+- [Jendave's fork](https://github.com/jendave/DND-5e-LaTeX-Template) of [rpgtex's DnD 5e LaTeX Template](https://github.com/rpgtex/DND-5e-LaTeX-Template)
+
+- Everything [Watawatabou](https://watabou.itch.io/) makes
+
+- Need a temporary e-mail but the site saw you coming and won't let you use the standard services? [Host your own!](https://github.com/sdushantha/tmpmail)
+
+- [MapSCII](https://github.com/rastapasta/mapscii) renders maps in your console.
+
+- Diana Smith's [Pure CSS photorealistic paintings](https://github.com/cyanharlow)
+
+- Avatar generators: [pagan](https://github.com/daboth/pagan), [indenticon](https://gist.github.com/Syncrossus/51e259d1adcf99b4f68737a602efeae6)
+
+- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) generates images that are locally similar to an input image
+
+
