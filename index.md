@@ -42,15 +42,15 @@ guilhem.piat[at]proton.me
 
 ## Research {#research}
 
-PIAT G., 2024. **Incorporating expert knowledge in deep neural networks for domain adaptation in natural language processing.** Thesis, publication pending.
+PIAT G., 2024. **Incorporating expert knowledge in deep neural networks for domain adaptation in natural language processing.** [Doctoral dissertation](files/2024_03_20_Piat_Guilhem_Doctoral_Thesis_CEA.pdf), Université Paris-Saclay.
 
-PIAT G., Semmar N., Tourille J., Allauzen A., Essafi H., 2024. **What does KnowBert-UMLS forget?** AICCSA 2023. 
+PIAT G., Semmar N., Tourille J., Allauzen A., Essafi H., 2024. **What does KnowBert-UMLS forget?** AICCSA 2023 (publication pending).
 
-Piat G., Kirby E., Tourille J., Semmar N., Allauzen A., Essafi H., 2023. **Intégration de connaissances structurées par synthèse de texte spécialisé.** 30e Conférence sur le Traitement Automatique des Langues Naturelles.
+Piat G., Kirby E., Tourille J., Semmar N., Allauzen A., Essafi H., 2023. **Intégration de connaissances structurées par synthèse de texte spécialisé.** [30e Conférence sur le Traitement Automatique des Langues Naturelles](https://aclanthology.org/2023.jeptalnrecital-long.21.pdf).
 
-PIAT G., Semmar N., Allauzen A., Essafi H., Gaël B., Tourille J., 2022. **Adapting Without Forgetting: KnowBert-UMLS.** IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob 2022).
+PIAT G., Semmar N., Allauzen A., Essafi H., Gaël B., Tourille J., 2022. **Adapting Without Forgetting: KnowBert-UMLS.** [IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob 2022)](https://www.researchgate.net/profile/Nasredine-Semmar/publication/364331850_Adapting_without_forgetting_KnowBert-UMLS/links/6349c30dff870c55ce2494ef/Adapting-without-forgetting-KnowBert-UMLS.pdf).
 
-PIAT G., Semmar N., Allauzen A., Essafi H., Tourille J., 2022. **Enriching Contextualized Representations with Biomedical Ontologies: Extending KnowBert to UMLS.** SAI Computing Conference 2022.
+PIAT G., Semmar N., Allauzen A., Essafi H., Tourille J., 2022. **Enriching Contextualized Representations with Biomedical Ontologies: Extending KnowBert to UMLS.** [SAI Computing Conference 2022](https://www.researchgate.net/profile/Nasredine-Semmar/publication/361806068_Enriching_Contextualized_Representations_with_Biomedical_Ontologies_Extending_KnowBert_to_UMLS/links/63499a442752e45ef6b7c7d8/Enriching-Contextualized-Representations-with-Biomedical-Ontologies-Extending-KnowBert-to-UMLS.pdf).
 
 
 ## Teaching {#teaching}
