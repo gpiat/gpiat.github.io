@@ -98,7 +98,9 @@ Here's some cool stuff I found.
 
 - [Java's Cool](https://github.com/svn2github/javascool) is a defunct project by the INRIA for teaching programming. It teaches algorithms and the basic syntax of Java without having to deal with the installation of an IDE and all the boilerplate that make Java so unwieldy to start programming with. You can still build it from source or [install the latest Debian build](https://github.com/svn2github/javascool/tree/master/javascool_V4/documents/distrib).
 
-- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) is a terminal emulator made to look like a CRT. It's unironically fantastic.
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) is a terminal emulator made to look like a CRT with heaps of settings and various presets emulating the style of once-popular computing platforms such as the Apple II. It's unironically fantastic.
+
+- [SikuliX](http://www.sikulix.com/) is a multi-platform GUI interaction automation program which can be piloted using Python, Ruby or JS.
 
 - FileLight (find in your package manager) is a concentric-ring-style disk usage visualizer much like Baobab, but it supports viewing distant filesystems over the `fish` protocol
 
