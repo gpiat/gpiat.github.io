@@ -5,7 +5,7 @@
 
 <!-- <div class="markdown-body"> -->
 
-[<kbd>About</kbd>](#about) [<kbd>Research</kbd>](#research) [<kbd>Teaching</kbd>](#teaching) [<kbd>Education</kbd>](#education) [<kbd>Proficiencies</kbd>](#proficiencies) [<kbd>Cool Stuff</kbd>](#cool-stuff)
+[<kbd>About</kbd>](#about) [<kbd>Research</kbd>](#research) [<kbd>Teaching</kbd>](#teaching) [<kbd>Education</kbd>](#education) [<kbd>Proficiencies</kbd>](#proficiencies) [<kbd>Cool Stuff</kbd>](#cool-stuff) [<kbd>Depression Fuel</kbd>](#depression)
 
 <br />
 
@@ -90,6 +90,10 @@ Here's some cool stuff I found.
 
 - Are you wanting to switch operating systems but afraid of breaking your workflow? Did your "perpetual license" to a piece of software get revoked and the studio is mandating that you subscribe to their SaaS platform to keep using it? Have you found a niche piece of software that does exactly what you want but is buggy or no longer supported? Head over to [AlternativeTo](https://alternativeto.net/), a place that catalogs pieces of software and websites that share similar purpose or functionality.
 
+- [GrapheneOS](https://grapheneos.org/) is a no-compromise alternative to Android that (among other things) de-escalates Google apps' priviledges, allowing you to deny them permissions such as access to your location, your sensors, your mirophone, _etc._ It unfortunately only works on Google Pixel phones (ironically enough).
+
+- The [DuckDuckGo](https://play.google.com/store/search?q=duckduckgo&c=apps) app for Android has a feature that blocks other apps' tracking requests.
+
 - Doorway pull-up bars are convenient, but most have to be screwed in, which isn't always an option, or put stress on the top of the door frame which may be fragile. A new, [self-expanding](https://www.amazon.com/dp/B0831QBK3P?ascsubtag=&linkCode=gs2&tag=hearstmagaz08-21) type of pull-up bar has emerged, which holds using friction on pads articulated such that the downward force on the bar is redirected to the sides. I think the idea is great, unfortunately I can't find any major sports brands manufacturing these, likely indicating the mechanism is unreliable.
 
 - The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is an interesting approach to social media. Anyone can spin up an *instance* of a service such as [Mastodon](https://mastodon.social/explore) (alternative to Twitter) or [Lemmy](https://join-lemmy.org/) (alternative to Reddit). Users are registered with specific instances, but instances of a service can communicate. This means one instance going dark does not take out the entire social network, and rather than maintaining one giant infrastructure, many people can maintain a small part of the infrastructure.
@@ -102,7 +106,7 @@ Here's some cool stuff I found.
 
 - [SikuliX](http://www.sikulix.com/) is a multi-platform GUI interaction automation program which can be piloted using Python, Ruby or JS.
 
-- FileLight (find in your package manager) is a concentric-ring-style disk usage visualizer much like Baobab, but it supports viewing distant filesystems over the `fish` protocol
+- FileLight (find in your package manager) is a concentric-ring-style disk usage visualizer much like Baobab, but it supports viewing distant filesystems over the `fish` protocol.
 
 - [Slingshot](https://flathub.org/apps/com.github.ryanakca.slingshot) is a local 2-player game in which you must take turns shooting at each other's spacecraft whilst accounting for the gravitational field of nearby planets.
 
@@ -126,4 +130,17 @@ Here's some cool stuff I found.
 
 - Combining [Terminus](https://packagecontrol.io/packages/Terminus) and [SendCode](https://packagecontrol.io/packages/SendCode), you can execute code directly from within Sublime Text.
 
+
+## Depression Fuel {#depression}
+Here's some not-cool stuff I found.
+
+- [We learned about the greenhouse effect 120 years after the industrial revolution. That was in 128 years ago (as of 2024).](https://xkcd.com/2889/)
+
+- [The French postal system sells NFTs](https://www.laposte.fr/timbre-nft)
+
+- [France is increasingly relying on big tech and forcing its citizens to surrender their privacy](https://grisebouille.net/franceconnect-ou-gafamconnect/)
+
+- [The French government officially gave itself the right to hack into users' cell-phones to wiretap them.](https://www.lepoint.fr/high-tech-internet/telephones-mouchards-ce-que-la-nouvelle-loi-rend-possible-07-07-2023-2527680_47.php) This is way worse than regular wiretapping because it scales very easily meaning they could virtually wiretap the entire country, and this affects not just phonecalls from a home phone but all conversations held with a phone in your pocket.
+
+- [France is working on a law mandating that web browsers implement a blacklist for websites.](https://foundation.mozilla.org/fr/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites/)
 
