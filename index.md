@@ -44,7 +44,7 @@ guilhem.piat[at]proton.me
 
 PIAT G., 2024. **Incorporating expert knowledge in deep neural networks for domain adaptation in natural language processing.** [Doctoral dissertation](files/2024_03_20_Piat_Guilhem_Doctoral_Thesis_CEA.pdf), Université Paris-Saclay.
 
-PIAT G., Semmar N., Tourille J., Allauzen A., Essafi H., 2024. **What does KnowBert-UMLS forget?** AICCSA 2023 (publication pending).
+PIAT G., Semmar N., Tourille J., Allauzen A., Essafi H., 2023. **What does KnowBert-UMLS forget?** [20th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2023)](https://ieeexplore.ieee.org/document/10479333).
 
 Piat G., Kirby E., Tourille J., Semmar N., Allauzen A., Essafi H., 2023. **Intégration de connaissances structurées par synthèse de texte spécialisé.** [30e Conférence sur le Traitement Automatique des Langues Naturelles](https://aclanthology.org/2023.jeptalnrecital-long.21.pdf).
 
