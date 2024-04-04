@@ -55,13 +55,13 @@ PIAT G., Semmar N., Allauzen A., Essafi H., Tourille J., 2022. **Enriching Conte
 
 ## Teaching {#teaching}
 ### 2022-2023 : Université Paris Dauphine
-#### 1st Semester
-- Encadrant de TD en IA
-- Encadrant de TP en POO (Java)
+#### 1er Semestre
+- Encadrant de TD en IA (enseignant responsable: [Paolo VIAPPIANI](https://www.lamsade.dauphine.fr/~pviappiani/))
+- Encadrant de TP en POO (Java) (enseignant responsable: [Hugo GILBERT](https://hugogilbert.pythonanywhere.com/))
 
-#### 2nd Semester
-- Encadrant de TP en Programmation Fonctionnelle (Haskell)
-- Enseignant responsable de l'option "Projet Machine Learning et Data Science"
+#### 2nd Semestre
+- Encadrant de TP en Programmation Fonctionnelle (Haskell) (enseignant responsable: [Michael Lampis](https://www.lamsade.dauphine.fr/~mlampis/Functional/))
+- Enseignant responsable de l'option "Projet Machine Learning et Data Science" (Cours repris de [Florian Yger](https://dauphine.psl.eu/recherche/cvtheque/yger-florian) et traduit en anglais, puis remplacé en automne 2023 par l'UE de [Benjamin Negrevergne](https://www.lamsade.dauphine.fr/~bnegrevergne/ens/ProjetDataScience/))
 
 ## Other work experience
 - **Session Chair**, *WiMob 2022 Conference*, Thessaloniki, Greece.
@@ -69,7 +69,7 @@ PIAT G., Semmar N., Allauzen A., Essafi H., Tourille J., 2022. **Enriching Conte
 
 ## Higher Education {#education}
 
-|  Year span  | Degree      | Subject                                 | Alma Mater                 |
+|  Year span  | Degree      | Subject                                 | _Alma Mater_               |
 | :---------: | ----------- | --------------------------------------- | -------------------------- |
 |  2019-2023  | Doctorate   | Transformers, NLP, Structured Knowledge | Université Paris-Saclay    |
 |  2016-2018  | Master's    | Machine Learning for Data Science       | Université Paris Descartes |
