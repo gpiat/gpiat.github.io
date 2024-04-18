@@ -42,15 +42,15 @@ guilhem.piat[at]proton.me
 
 ## Research {#research}
 
-PIAT G., 2024. **Incorporating expert knowledge in deep neural networks for domain adaptation in natural language processing.** [Doctoral dissertation](files/2024_03_20_Piat_Guilhem_Doctoral_Thesis_CEA.pdf), Université Paris-Saclay.
+<u>PIAT G.</u>, 2024. **Incorporating expert knowledge in deep neural networks for domain adaptation in natural language processing.** [Doctoral dissertation](files/2024_04_05_Piat_Guilhem_Doctoral_Thesis.pdf), Université Paris-Saclay.
 
-PIAT G., Semmar N., Tourille J., Allauzen A., Essafi H., 2023. **What does KnowBert-UMLS forget?** [20th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2023)](https://ieeexplore.ieee.org/document/10479333).
+<u>PIAT G.</u>, Semmar N., Tourille J., Allauzen A., Essafi H., 2023. **What does KnowBert-UMLS forget?** [20th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2023)](https://ieeexplore.ieee.org/document/10479333).
 
-Piat G., Kirby E., Tourille J., Semmar N., Allauzen A., Essafi H., 2023. **Intégration de connaissances structurées par synthèse de texte spécialisé.** [30e Conférence sur le Traitement Automatique des Langues Naturelles](https://aclanthology.org/2023.jeptalnrecital-long.21.pdf).
+<u>PIAT G.</u>, Kirby E., Tourille J., Semmar N., Allauzen A., Essafi H., 2023. **Intégration de connaissances structurées par synthèse de texte spécialisé.** [30e Conférence sur le Traitement Automatique des Langues Naturelles](https://aclanthology.org/2023.jeptalnrecital-long.21.pdf).
 
-PIAT G., Semmar N., Allauzen A., Essafi H., Gaël B., Tourille J., 2022. **Adapting Without Forgetting: KnowBert-UMLS.** [IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob 2022)](https://www.researchgate.net/profile/Nasredine-Semmar/publication/364331850_Adapting_without_forgetting_KnowBert-UMLS/links/6349c30dff870c55ce2494ef/Adapting-without-forgetting-KnowBert-UMLS.pdf).
+<u>PIAT G.</u>, Semmar N., Allauzen A., Essafi H., Gaël B., Tourille J., 2022. **Adapting Without Forgetting: KnowBert-UMLS.** [IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob 2022)](https://www.researchgate.net/profile/Nasredine-Semmar/publication/364331850_Adapting_without_forgetting_KnowBert-UMLS/links/6349c30dff870c55ce2494ef/Adapting-without-forgetting-KnowBert-UMLS.pdf).
 
-PIAT G., Semmar N., Allauzen A., Essafi H., Tourille J., 2022. **Enriching Contextualized Representations with Biomedical Ontologies: Extending KnowBert to UMLS.** [SAI Computing Conference 2022](https://www.researchgate.net/profile/Nasredine-Semmar/publication/361806068_Enriching_Contextualized_Representations_with_Biomedical_Ontologies_Extending_KnowBert_to_UMLS/links/63499a442752e45ef6b7c7d8/Enriching-Contextualized-Representations-with-Biomedical-Ontologies-Extending-KnowBert-to-UMLS.pdf).
+<u>PIAT G.</u>, Semmar N., Allauzen A., Essafi H., Tourille J., 2022. **Enriching Contextualized Representations with Biomedical Ontologies: Extending KnowBert to UMLS.** [SAI Computing Conference 2022](https://www.researchgate.net/profile/Nasredine-Semmar/publication/361806068_Enriching_Contextualized_Representations_with_Biomedical_Ontologies_Extending_KnowBert_to_UMLS/links/63499a442752e45ef6b7c7d8/Enriching-Contextualized-Representations-with-Biomedical-Ontologies-Extending-KnowBert-to-UMLS.pdf).
 
 
 ## Teaching {#teaching}
@@ -132,9 +132,9 @@ Here's some cool stuff I found.
 
 
 ## Depression Fuel {#depression}
-Here's some not-cool stuff I found.
+Abandon all hope, ye who enter here.
 
-- [We learned about the greenhouse effect 120 years after the industrial revolution. That was in 128 years ago (as of 2024).](https://xkcd.com/2889/)
+- XKCD: [We learned about the greenhouse effect 120 years after the industrial revolution. That was in 128 years ago (as of 2024).](https://xkcd.com/2889/)
 
 - [The French postal system sells NFTs](https://www.laposte.fr/timbre-nft)
 
@@ -144,3 +144,10 @@ Here's some not-cool stuff I found.
 
 - [France is working on a law mandating that web browsers implement a blacklist for websites.](https://foundation.mozilla.org/fr/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites/)
 
+- Roku just [patented](https://patents.google.com/patent/US20230388589A1/en) an advertisement injection system to serve you ads when you watch movies (off a DVD for instance) on your TV.
+
+- Ars Technica: [_Double-screen ‘free’ TV will show you ads, even when not in use_](https://arstechnica.com/gadgets/2023/05/double-screen-free-tv-will-show-you-ads-even-when-not-in-use/?comments=1). This TV is subsidized by spying on you and constantly serving ads. I don't know how many units they're moving, but from what I can tell they unfortunately seem to be doing well.
+
+- The Verge: [_Texas is replacing thousands of human exam graders with AI_](https://www.theverge.com/2024/4/10/24126206/texas-staar-exam-graders-ai-automated-scoring-engine). In theory this is great, but we're not ready technologically or societally. This will not only cause mistakes in grading papers, but also deprive teachers of the opportunity to earn some extra money, worsening the problem underpay.
+
+- PC Mag: [Chase Bank to Let Advertisers Target Customers Based on Spending Habits](https://www.pcmag.com/news/chase-bank-to-let-advertisers-target-customers-based-on-spending-habits). I invite any and all Chase customers to pull their money out ASAP.
