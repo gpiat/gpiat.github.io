@@ -64,6 +64,7 @@ guilhem.piat[at]proton.me
 - Enseignant responsable de l'option "Projet Machine Learning et Data Science" (Cours repris de [Florian Yger](https://dauphine.psl.eu/recherche/cvtheque/yger-florian) et traduit en anglais, puis remplacé en automne 2023 par l'UE de [Benjamin Negrevergne](https://www.lamsade.dauphine.fr/~bnegrevergne/ens/ProjetDataScience/))
 
 ## Other work experience
+- **Team Lead**, *AI-Plans AI Alignment Evals Hackathon*. I led Team Blue 2 (Electric Boogaloo) to win the vote for best project among 12 teams. [Our project](https://github.com/gpiat/AIAE-AbliterationBench/) automates a residual stream attack jailbreak attempt to verify how resilient generative LLMs are to residual stream attacks.
 - **Session Chair**, *WiMob 2022 Conference*, Thessaloniki, Greece.
 
 
