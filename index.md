@@ -5,7 +5,7 @@
 
 <!-- <div class="markdown-body"> -->
 
-[<kbd>About</kbd>](#about) [<kbd>Research</kbd>](#research) [<kbd>Teaching</kbd>](#teaching) [<kbd>Education</kbd>](#education) [<kbd>Proficiencies</kbd>](#proficiencies) [<kbd>Cool Stuff</kbd>](#cool-stuff) [<kbd>Depression Fuel</kbd>](#depression)
+[<kbd>About</kbd>](#about) [<kbd>Research</kbd>](#research) [<kbd>Teaching</kbd>](#teaching) [<kbd>Education</kbd>](#education) [<kbd>Proficiencies</kbd>](#proficiencies) [<kbd>Soapbox</kbd>](#soapbox) [<kbd>Cool Stuff</kbd>](#cool-stuff) [<kbd>Depression Fuel</kbd>](#depression)
 
 <br />
 
@@ -85,6 +85,10 @@ guilhem.piat[at]proton.me
 |     ML      | Active Learning, Dimensionality reduction & Clustering, Retrieval                           |
 | Programming | Python, R, Bash, Java, Prolog, Haskell, Ocaml                                               |
 |    Other    | Teaching, scientific writing in English and French, working in a team                       |
+
+## Soapbox {#soapbox}
+
+<!-- TODO: "Vas" rant -->
 
 ## Cool stuff {#cool-stuff}
 Here's some cool stuff I found.
